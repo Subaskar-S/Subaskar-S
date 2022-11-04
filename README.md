@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subaskar-S
-- 👀 I’m interested in Solving Problems in New Ways
+- 👀 I’m interested in Solving Problems in Different Ways
 - 🌱 I’m currently learning Computer Engineering in University of Jaffna
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
