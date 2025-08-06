@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate DevOps | AI & LLMs | Blockchain | Systems & Networking from Sri Lanka
+A passionate Blockchain | AI & LLMs | DevOps | Systems & Networking from Sri Lanka
 
 
 # 💻 Tech Stack:
