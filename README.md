@@ -150,27 +150,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subaskar-S&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Subaskar-S&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subaskar-S&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" width="48%" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subaskar-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
