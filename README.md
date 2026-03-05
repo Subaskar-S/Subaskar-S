@@ -1,21 +1,188 @@
-# 💫 About Me:
-A passionate Blockchain | AI & LLMs | Systems & Networking from Sri Lanka
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Subaskar;Backend+%26+Protocol+Engineer;Building+Smart+Contract+Systems;Blockchain+Infrastructure+Builder" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <a href="https://subaskar.web.app"><img src="https://img.shields.io/badge/Portfolio-subaskar.web.app-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/subaskar97"><img src="https://img.shields.io/badge/LinkedIn-subaskar97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:subaskar.sr@gmail.com"><img src="https://img.shields.io/badge/Email-subaskar.sr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subaskar-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Subaskar-S&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subaskar-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subaskar-S&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 👨‍💻 About Me
+
+- 🔭 I build **upgradeable smart contract systems** and **blockchain infrastructure**
+- 🏗️ Working on **Diamond proxy (EIP-2535)** architecture at [gnus.ai](https://github.com/GeniusVentures)
+- ⚡ Building protocol backends with **NestJS**, indexers, and **liquidation bots**
+- 🦀 Systems work in **Go** and **Rust** — FFI boundaries, deterministic execution
+- 🌐 Frontend with **Next.js 14**, Redux, Ethers.js, WalletConnect
+- 🎓 **BSc.Eng(Hons)** in Computer Engineering — University of Jaffna
+- 📍 Sri Lanka
+
+<br clear="both"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Subaskar-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ts,rust,go,cpp,c,python,java&theme=dark" />
+</p>
+
+#### Smart Contracts & Web3
+
+<p>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slither-2E2E2E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+</p>
+
+#### Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,postgres,redis,docker,prometheus,githubactions&theme=dark" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,playwright&theme=dark" />
+</p>
+
+#### Blockchain Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Substrate-282828?style=for-the-badge&logo=parity-substrate&logoColor=white" />
+  <img src="https://img.shields.io/badge/libp2p-147EFB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RocksDB-0F1011?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+---
+
+### 📦 Open-Source Packages
+
+| Package                      | Description                                                         | Install                       |
+| ---------------------------- | ------------------------------------------------------------------- | ----------------------------- |
+| [`wad-ray-math`](#)          | TypeScript BigInt implementation of Aave's wad/ray fixed-point math | `npm i wad-ray-math`          |
+| [`diamond-storage-utils`](#) | Safe Diamond storage layout helpers with collision detection        | `npm i diamond-storage-utils` |
+| [`reorg-safe-indexer`](#)    | Lightweight blockchain event indexer with reorg rollback            | `npm i reorg-safe-indexer`    |
+| [`liquidation-monitor`](#)   | DeFi health-factor monitoring with gas guards                       | `npm i liquidation-monitor`   |
+| [`diamond-deployer-cli`](#)  | CLI for deploying & verifying Diamond proxy contracts               | `npx diamond-deployer-cli`    |
+
+> 🚧 _Packages are under active development — links coming soon_
+
+---
+
+### 🏗️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/GeniusVentures/gnus-dao">🔷 GNUS DAO</a></h3>
+      <p align="center">Diamond upgradeable DAO with modular governance, quadratic voting, multi-chain deployment</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Subaskar-S/ArcLend">💰 ArcLend</a></h3>
+      <p align="center">DeFi lending protocol with UUPS contracts, reorg-safe indexer, liquidation bot</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Subaskar-S/hybrid-runtime-blockchain-engine">⚡ Hybrid Runtime</a></h3>
+      <p align="center">Go orchestration + Rust deterministic execution with FFI boundary isolation</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Subaskar-S/High_Performance_Blockchain_Node">🚀 High-Perf Node</a></h3>
+      <p align="center">Rust blockchain node — PBFT consensus, libp2p, RocksDB, 10K+ TPS</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tokio-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/libp2p-147EFB?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Subaskar-S/Cross-Chain_Bridge_Infrastructure">🌉 Cross-Chain Bridge</a></h3>
+      <p align="center">Ethereum ↔ Polkadot bridge with threshold signatures (k-of-n Schnorr/ECDSA)</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Substrate-282828?style=flat-square&logo=parity-substrate&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Subaskar-S/Decentralized_Identity_Management_System">🔐 Decentralized Identity</a></h3>
+      <p align="center">W3C DID/VC system with BLS12-381 threshold cryptography & IPFS</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+        <img src="https://img.shields.io/badge/ZKP-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subaskar-S&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Subaskar-S&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subaskar-S&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" width="48%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subaskar-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subaskar-S&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subaskar-S&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+</p>
